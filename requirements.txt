@@ -1,0 +1,3 @@
+yake
+beautifulsoup4
+urllib3
